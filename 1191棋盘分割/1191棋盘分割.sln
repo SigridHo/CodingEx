@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1191棋盘分割", "1191棋盘分割\1191棋盘分割.vcxproj", "{EA5B5474-E82F-42EA-9AC0-782F3F06724F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA5B5474-E82F-42EA-9AC0-782F3F06724F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EA5B5474-E82F-42EA-9AC0-782F3F06724F}.Debug|Win32.Build.0 = Debug|Win32
+		{EA5B5474-E82F-42EA-9AC0-782F3F06724F}.Release|Win32.ActiveCfg = Release|Win32
+		{EA5B5474-E82F-42EA-9AC0-782F3F06724F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
