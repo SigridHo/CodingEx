@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2FFlip Game", "2FFlip Game\2FFlip Game.vcxproj", "{A2CBD6C7-B0B5-4116-97DD-8E4C5D27DB9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2CBD6C7-B0B5-4116-97DD-8E4C5D27DB9E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A2CBD6C7-B0B5-4116-97DD-8E4C5D27DB9E}.Debug|Win32.Build.0 = Debug|Win32
+		{A2CBD6C7-B0B5-4116-97DD-8E4C5D27DB9E}.Release|Win32.ActiveCfg = Release|Win32
+		{A2CBD6C7-B0B5-4116-97DD-8E4C5D27DB9E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
