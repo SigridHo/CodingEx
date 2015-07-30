@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5B简单任务", "5B简单任务\5B简单任务.vcxproj", "{517302C7-F86A-4817-8045-3A56B53B2270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{517302C7-F86A-4817-8045-3A56B53B2270}.Debug|Win32.ActiveCfg = Debug|Win32
+		{517302C7-F86A-4817-8045-3A56B53B2270}.Debug|Win32.Build.0 = Debug|Win32
+		{517302C7-F86A-4817-8045-3A56B53B2270}.Release|Win32.ActiveCfg = Release|Win32
+		{517302C7-F86A-4817-8045-3A56B53B2270}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
