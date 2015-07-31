@@ -1,0 +1,53 @@
+﻿生成启动时间为 2013/3/22 14:53:16。
+     1>项目“F:\大一下\程设\homework\魔兽世界2\魔兽世界2\魔兽世界2.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\魔兽世界2.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\visual c++ 6.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "魔兽世界2.cpp"
+         魔兽世界2.cpp
+     1>f:\大一下\程设\homework\魔兽世界2\魔兽世界2\魔兽世界2.cpp(64): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\大一下\程设\homework\魔兽世界2\魔兽世界2\魔兽世界2.cpp(87): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\大一下\程设\homework\魔兽世界2\魔兽世界2\魔兽世界2.cpp(90): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\大一下\程设\homework\魔兽世界2\魔兽世界2\魔兽世界2.cpp(91): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\大一下\程设\homework\魔兽世界2\魔兽世界2\魔兽世界2.cpp(94): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\大一下\程设\homework\魔兽世界2\魔兽世界2\魔兽世界2.cpp(121): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\大一下\程设\homework\魔兽世界2\魔兽世界2\魔兽世界2.cpp(134): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\大一下\程设\homework\魔兽世界2\魔兽世界2\魔兽世界2.cpp(149): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\大一下\程设\homework\魔兽世界2\魔兽世界2\魔兽世界2.cpp(150): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\大一下\程设\homework\魔兽世界2\魔兽世界2\魔兽世界2.cpp(195): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\大一下\程设\homework\魔兽世界2\魔兽世界2\魔兽世界2.cpp(208): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\大一下\程设\homework\魔兽世界2\魔兽世界2\魔兽世界2.cpp(223): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\大一下\程设\homework\魔兽世界2\魔兽世界2\魔兽世界2.cpp(224): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\大一下\程设\homework\魔兽世界2\魔兽世界2\魔兽世界2.cpp(303): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\大一下\程设\homework\魔兽世界2\魔兽世界2\魔兽世界2.cpp(308): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\大一下\程设\homework\魔兽世界2\魔兽世界2\魔兽世界2.cpp(310): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+       Link:
+         D:\visual c++ 6.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\大一下\程设\homework\魔兽世界2\Debug\魔兽世界2.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\魔兽世界2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\大一下\程设\homework\魔兽世界2\Debug\魔兽世界2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\大一下\程设\homework\魔兽世界2\Debug\魔兽世界2.lib" /MACHINE:X86 "Debug\魔兽世界2.obj"
+         LINK : 没有找到 F:\大一下\程设\homework\魔兽世界2\Debug\魔兽世界2.exe 或上一个增量链接没有生成它；正在执行完全链接
+         魔兽世界2.vcxproj -> F:\大一下\程设\homework\魔兽世界2\Debug\魔兽世界2.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\大一下\程设\homework\魔兽世界2\Debug\魔兽世界2.exe;#1" /manifest "Debug\魔兽世界2.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\魔兽世界2.unsuccessfulbuild”。
+         正在对“Debug\魔兽世界2.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\大一下\程设\homework\魔兽世界2\魔兽世界2\魔兽世界2.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.89

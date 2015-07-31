@@ -1,0 +1,40 @@
+﻿生成启动时间为 2013/5/6 2:24:03。
+     1>项目“F:\大一下\程设\homework\魔兽世界终极2.0\魔兽世界终极2.0\魔兽世界终极2.0.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\魔兽世界终极2.0.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\visual c++ 6.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "魔兽世界终极.cpp"
+         魔兽世界终极.cpp
+     1>f:\大一下\程设\homework\魔兽世界终极2.0\魔兽世界终极2.0\魔兽世界终极.cpp(25): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\大一下\程设\homework\魔兽世界终极2.0\魔兽世界终极2.0\魔兽世界终极.cpp(55): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>f:\大一下\程设\homework\魔兽世界终极2.0\魔兽世界终极2.0\魔兽世界终极.cpp(179): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>f:\大一下\程设\homework\魔兽世界终极2.0\魔兽世界终极2.0\魔兽世界终极.cpp(198): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\大一下\程设\homework\魔兽世界终极2.0\魔兽世界终极2.0\魔兽世界终极.cpp(237): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>f:\大一下\程设\homework\魔兽世界终极2.0\魔兽世界终极2.0\魔兽世界终极.cpp(255): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>f:\大一下\程设\homework\魔兽世界终极2.0\魔兽世界终极2.0\魔兽世界终极.cpp(269): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>f:\大一下\程设\homework\魔兽世界终极2.0\魔兽世界终极2.0\魔兽世界终极.cpp(1065): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\stdio.h(249) : 参见“freopen”的声明
+     1>f:\大一下\程设\homework\魔兽世界终极2.0\魔兽世界终极2.0\魔兽世界终极.cpp(1066): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\stdio.h(249) : 参见“freopen”的声明
+     1>f:\大一下\程设\homework\魔兽世界终极2.0\魔兽世界终极2.0\魔兽世界终极.cpp(1068): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\大一下\程设\homework\魔兽世界终极2.0\魔兽世界终极2.0\魔兽世界终极.cpp(1076): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\大一下\程设\homework\魔兽世界终极2.0\魔兽世界终极2.0\魔兽世界终极.cpp(1085): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\大一下\程设\homework\魔兽世界终极2.0\魔兽世界终极2.0\魔兽世界终极.cpp(1089): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+       Link:
+         D:\visual c++ 6.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\大一下\程设\homework\魔兽世界终极2.0\Debug\魔兽世界终极2.0.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\魔兽世界终极2.0.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\大一下\程设\homework\魔兽世界终极2.0\Debug\魔兽世界终极2.0.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\大一下\程设\homework\魔兽世界终极2.0\Debug\魔兽世界终极2.0.lib" /MACHINE:X86 "Debug\魔兽世界终极.obj"
+         LINK : 没有找到 F:\大一下\程设\homework\魔兽世界终极2.0\Debug\魔兽世界终极2.0.exe 或上一个增量链接没有生成它；正在执行完全链接
+         魔兽世界终极2.0.vcxproj -> F:\大一下\程设\homework\魔兽世界终极2.0\Debug\魔兽世界终极2.0.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\大一下\程设\homework\魔兽世界终极2.0\Debug\魔兽世界终极2.0.exe;#1" /manifest "Debug\魔兽世界终极2.0.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\魔兽世界终极2.0.unsuccessfulbuild”。
+         正在对“Debug\魔兽世界终极2.0.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\大一下\程设\homework\魔兽世界终极2.0\魔兽世界终极2.0\魔兽世界终极2.0.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.66

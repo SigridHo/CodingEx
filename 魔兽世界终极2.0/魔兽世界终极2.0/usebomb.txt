@@ -1,0 +1,55 @@
+void City::UseBomb()
+{
+	if(state[0] != NULL && state[1] != NULL)
+	{
+		if(state[0]->Bomb)
+		{
+			if(Color == 0 || (Color == -1 && Number % 2 == 1))
+			{
+				if(!state[0]->CheckAttack(*state[1]) && state[1]->CheckAntiAttack(*state[0])) 
+				{
+					printf("%.3d:38 red %s %d used a bomb and killed blue %s %d\n", Hour, WarriorName[state[0]->Type], state[0]->Number, WarriorName[state[1]->Type], state[1]->Number);
+					state[0] = NULL;
+					state[1] = NULL;
+					return;
+				}
+			}
+			else
+			{
+				if(state[1]->CheckAttack(*state[0]))
+				{
+					printf("%.3d:38 red %s %d used a bomb and killed blue %s %d\n", Hour, WarriorName[state[0]->Type], state[0]->Number, WarriorName[state[1]->Type], state[1]->Number);
+					state[0] = NULL;
+					state[1] = NULL;
+					return;
+				}
+			}
+		}
+	}
+	if(state[0] != NULL && state[1] != NULL)
+	{
+		if(state[1]->Bomb)
+		{
+			if(Color == 1 || (Color == -1 && Number % 2 == 0))
+			{
+				if(!state[1]->CheckAttack(*state[0]) && state[0]->CheckAntiAttack(*state[1])) 
+				{
+					printf("%.3d:38 blue %s %d used a bomb and killed red %s %d\n", Hour, WarriorName[state[1]->Type], state[1]->Number, WarriorName[state[0]->Type], state[0]->Number);
+					state[1] = NULL;
+					state[0] = NULL;
+					return;
+				}
+			}
+			else
+			{
+				if(state[0]->CheckAttack(*state[1]))
+				{
+					printf("%.3d:38 blue %s %d used a bomb and killed red %s %d\n", Hour, WarriorName[state[1]->Type], state[1]->Number, WarriorName[state[0]->Type], state[0]->Number);
+					state[1] = NULL;
+					state[0] = NULL;
+					return;
+				}
+			}
+		}
+	}
+}
