@@ -1,0 +1,21 @@
+﻿生成启动时间为 2013/5/7 0:12:58。
+     1>项目“F:\大一下\程设\homework\fourcolor-value\fourcolor-value\fourcolor-value.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\fourcolor-value.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\visual c++ 6.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt value.cpp
+         value.cpp
+     1>f:\大一下\程设\homework\fourcolor-value\fourcolor-value\value.cpp(46): warning C4244: “-=”: 从“const double”转换到“int”，可能丢失数据
+     1>f:\大一下\程设\homework\fourcolor-value\fourcolor-value\value.cpp(50): warning C4244: “+=”: 从“const double”转换到“int”，可能丢失数据
+     1>f:\大一下\程设\homework\fourcolor-value\fourcolor-value\value.cpp(71): warning C4244: “+=”: 从“const double”转换到“int”，可能丢失数据
+     1>f:\大一下\程设\homework\fourcolor-value\fourcolor-value\value.cpp(72): warning C4244: “-=”: 从“const double”转换到“int”，可能丢失数据
+     1>f:\大一下\程设\homework\fourcolor-value\fourcolor-value\value.cpp(73): warning C4244: “-=”: 从“const double”转换到“int”，可能丢失数据
+     1>f:\大一下\程设\homework\fourcolor-value\fourcolor-value\value.cpp(74): warning C4244: “+=”: 从“const double”转换到“int”，可能丢失数据
+       Link:
+         D:\visual c++ 6.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\大一下\程设\homework\fourcolor-value\Debug\fourcolor-value.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\fourcolor-value.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\大一下\程设\homework\fourcolor-value\Debug\fourcolor-value.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\大一下\程设\homework\fourcolor-value\Debug\fourcolor-value.lib" /MACHINE:X86 Debug\value.obj
+     1>LINK : fatal error LNK1561: 必须定义入口点
+     1>已完成生成项目“F:\大一下\程设\homework\fourcolor-value\fourcolor-value\fourcolor-value.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.39

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "木材加工", "木材加工\木材加工.vcxproj", "{35B3ADC7-4438-458C-9016-FA47A851A1CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35B3ADC7-4438-458C-9016-FA47A851A1CD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{35B3ADC7-4438-458C-9016-FA47A851A1CD}.Debug|Win32.Build.0 = Debug|Win32
+		{35B3ADC7-4438-458C-9016-FA47A851A1CD}.Release|Win32.ActiveCfg = Release|Win32
+		{35B3ADC7-4438-458C-9016-FA47A851A1CD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

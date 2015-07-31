@@ -1,0 +1,23 @@
+﻿生成启动时间为 2013/5/19 20:30:01。
+     1>项目“F:\大一下\程设\homework\online2\online2\online2.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“F:\大一下\程设\homework\online2\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\online2.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\visual c++ 6.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "online2-5.cpp"
+         online2-5.cpp
+     1>f:\大一下\程设\homework\online2\online2\online2-5.cpp(139): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+       Link:
+         D:\visual c++ 6.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\大一下\程设\homework\online2\Debug\online2.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\online2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\大一下\程设\homework\online2\Debug\online2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\大一下\程设\homework\online2\Debug\online2.lib" /MACHINE:X86 "Debug\online2-5.obj"
+         online2.vcxproj -> F:\大一下\程设\homework\online2\Debug\online2.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\大一下\程设\homework\online2\Debug\online2.exe;#1" /manifest Debug\online2.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\online2.unsuccessfulbuild”。
+         正在对“Debug\online2.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\大一下\程设\homework\online2\online2\online2.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.41

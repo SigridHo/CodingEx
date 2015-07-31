@@ -1,0 +1,14 @@
+﻿生成启动时间为 2013/5/15 23:41:13。
+     1>项目“F:\大一下\程设\homework\reviseTest\reviseTest\reviseTest.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\reviseTest.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\visual c++ 6.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>f:\大一下\程设\homework\revisetest\revisetest\test.cpp(12): error C2440: “=”: 无法从“std::string”转换为“char [3]”
+                 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+     1>已完成生成项目“F:\大一下\程设\homework\reviseTest\reviseTest\reviseTest.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.47

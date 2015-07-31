@@ -1,0 +1,27 @@
+﻿生成启动时间为 2013/4/28 11:02:38。
+     1>项目“F:\大一下\程设\homework\7选4--priority-queue\7选4--priority-queue\7选4--priority-queue.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\7选4--priority-queue.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\visual c++ 6.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "priority-queue.cpp"
+         priority-queue.cpp
+     1>f:\大一下\程设\homework\7选4--priority-queue\7选4--priority-queue\priority-queue.cpp(69): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\大一下\程设\homework\7选4--priority-queue\7选4--priority-queue\priority-queue.cpp(75): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\大一下\程设\homework\7选4--priority-queue\7选4--priority-queue\priority-queue.cpp(42): warning C4715: “mygreater::operator()”: 不是所有的控件路径都返回值
+     1>f:\大一下\程设\homework\7选4--priority-queue\7选4--priority-queue\priority-queue.cpp(59): warning C4715: “mylesser::operator()”: 不是所有的控件路径都返回值
+       Link:
+         D:\visual c++ 6.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\大一下\程设\homework\7选4--priority-queue\Debug\7选4--priority-queue.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\7选4--priority-queue.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\大一下\程设\homework\7选4--priority-queue\Debug\7选4--priority-queue.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\大一下\程设\homework\7选4--priority-queue\Debug\7选4--priority-queue.lib" /MACHINE:X86 "Debug\priority-queue.obj"
+         LINK : 没有找到 F:\大一下\程设\homework\7选4--priority-queue\Debug\7选4--priority-queue.exe 或上一个增量链接没有生成它；正在执行完全链接
+         7选4--priority-queue.vcxproj -> F:\大一下\程设\homework\7选4--priority-queue\Debug\7选4--priority-queue.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\大一下\程设\homework\7选4--priority-queue\Debug\7选4--priority-queue.exe;#1" /manifest "Debug\7选4--priority-queue.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\7选4--priority-queue.unsuccessfulbuild”。
+         正在对“Debug\7选4--priority-queue.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\大一下\程设\homework\7选4--priority-queue\7选4--priority-queue\7选4--priority-queue.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.06

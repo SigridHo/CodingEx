@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ROADS", "ROADS\ROADS.vcxproj", "{48CF48B0-C3A0-47DC-8BFE-913C6A6CF807}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48CF48B0-C3A0-47DC-8BFE-913C6A6CF807}.Debug|Win32.ActiveCfg = Debug|Win32
+		{48CF48B0-C3A0-47DC-8BFE-913C6A6CF807}.Debug|Win32.Build.0 = Debug|Win32
+		{48CF48B0-C3A0-47DC-8BFE-913C6A6CF807}.Release|Win32.ActiveCfg = Release|Win32
+		{48CF48B0-C3A0-47DC-8BFE-913C6A6CF807}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

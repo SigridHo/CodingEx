@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7选5--热血格斗场", "7选5--热血格斗场\7选5--热血格斗场.vcxproj", "{CFECDD19-3C1E-4F7B-8C1D-27169398A193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFECDD19-3C1E-4F7B-8C1D-27169398A193}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CFECDD19-3C1E-4F7B-8C1D-27169398A193}.Debug|Win32.Build.0 = Debug|Win32
+		{CFECDD19-3C1E-4F7B-8C1D-27169398A193}.Release|Win32.ActiveCfg = Release|Win32
+		{CFECDD19-3C1E-4F7B-8C1D-27169398A193}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

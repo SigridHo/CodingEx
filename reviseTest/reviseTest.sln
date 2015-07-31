@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "reviseTest", "reviseTest\reviseTest.vcxproj", "{4ABA5E05-1E1B-46B8-B729-92BE59A40126}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ABA5E05-1E1B-46B8-B729-92BE59A40126}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4ABA5E05-1E1B-46B8-B729-92BE59A40126}.Debug|Win32.Build.0 = Debug|Win32
+		{4ABA5E05-1E1B-46B8-B729-92BE59A40126}.Release|Win32.ActiveCfg = Release|Win32
+		{4ABA5E05-1E1B-46B8-B729-92BE59A40126}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
