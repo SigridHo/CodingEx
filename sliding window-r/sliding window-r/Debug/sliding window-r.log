@@ -1,0 +1,24 @@
+﻿生成启动时间为 2013/12/17 22:57:02。
+     1>项目“F:\大二上\数据结构与算法\sliding window-r\sliding window-r\sliding window-r.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\sliding window-r.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\visual c++ 6.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "sliding window.cpp"
+         sliding window.cpp
+     1>f:\大二上\数据结构与算法\sliding window-r\sliding window-r\sliding window.cpp(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\大二上\数据结构与算法\sliding window-r\sliding window-r\sliding window.cpp(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual c++ 6.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+       Link:
+         D:\visual c++ 6.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\大二上\数据结构与算法\sliding window-r\Debug\sliding window-r.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\sliding window-r.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\大二上\数据结构与算法\sliding window-r\Debug\sliding window-r.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\大二上\数据结构与算法\sliding window-r\Debug\sliding window-r.lib" /MACHINE:X86 "Debug\sliding window.obj"
+         sliding window-r.vcxproj -> F:\大二上\数据结构与算法\sliding window-r\Debug\sliding window-r.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\大二上\数据结构与算法\sliding window-r\Debug\sliding window-r.exe;#1" /manifest "Debug\sliding window-r.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\sliding window-r.unsuccessfulbuild”。
+         正在对“Debug\sliding window-r.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\大二上\数据结构与算法\sliding window-r\sliding window-r\sliding window-r.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.17
