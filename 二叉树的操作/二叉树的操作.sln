@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "二叉树的操作", "二叉树的操作\二叉树的操作.vcxproj", "{D0485159-A24E-4B50-B2C4-000B83DB3378}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0485159-A24E-4B50-B2C4-000B83DB3378}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D0485159-A24E-4B50-B2C4-000B83DB3378}.Debug|Win32.Build.0 = Debug|Win32
+		{D0485159-A24E-4B50-B2C4-000B83DB3378}.Release|Win32.ActiveCfg = Release|Win32
+		{D0485159-A24E-4B50-B2C4-000B83DB3378}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
