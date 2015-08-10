@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "去除C程序中的注释-r", "去除C程序中的注释-r\去除C程序中的注释-r.vcxproj", "{BE9B7DF4-FFF4-4D6C-94EC-AF285D6A0126}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE9B7DF4-FFF4-4D6C-94EC-AF285D6A0126}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BE9B7DF4-FFF4-4D6C-94EC-AF285D6A0126}.Debug|Win32.Build.0 = Debug|Win32
+		{BE9B7DF4-FFF4-4D6C-94EC-AF285D6A0126}.Release|Win32.ActiveCfg = Release|Win32
+		{BE9B7DF4-FFF4-4D6C-94EC-AF285D6A0126}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
